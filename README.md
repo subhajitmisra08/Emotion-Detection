@@ -1,2 +1,2 @@
-# Emotion-Detection
-Realtime Emotion Detection System
+# EmoVision
+Real Time Facial Emotion Recognition using Deep Learning
